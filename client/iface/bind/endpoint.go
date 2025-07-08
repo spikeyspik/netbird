@@ -1,5 +1,5 @@
 package bind
 
-import wgConn "golang.zx2c4.com/wireguard/conn"
+import wgConn "github.com/amnezia-vpn/amneziawg-go/conn"
 
 type Endpoint = wgConn.StdNetEndpoint
